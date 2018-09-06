@@ -1,0 +1,3 @@
+this is my current project initial file to understanding better flowwork of git.
+My name is Mohsin Ijaz
+this is just a tessting readme file...
